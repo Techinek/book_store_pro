@@ -1,6 +1,11 @@
 # Bookstore
 Bookstore project relied on docker with authorization and authentication system for restricting access to book contents.
 
+## Stack:
+- Python 3
+- Django 4
+- PyJWT
+
 ## Installation:
 1. Clone the repository:
 ```
