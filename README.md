@@ -1,2 +1,2 @@
-# book_store_pro
-Bookstore project relied on docker to be deployed on heroku
+# Bookstore
+Bookstore project relied on docker with authorization and authentication system that helps to restrict access for book contents.
