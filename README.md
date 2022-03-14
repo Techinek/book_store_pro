@@ -9,7 +9,7 @@ Bookstore project relied on docker with authorization and authentication system 
 ## Installation:
 1. Clone the repository:
 ```
-https://github.com/Techinek/book_store_pro.git
+git clone https://github.com/Techinek/book_store_pro.git
 ```
 2. Run docker (all the requirements will be install automatically):
 ```
