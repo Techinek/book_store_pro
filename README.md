@@ -11,15 +11,11 @@ Bookstore project relied on docker with authorization and authentication system 
 ```
 https://github.com/Techinek/book_store_pro.git
 ```
-2. Install all the needed packages:
+2. Run docker (all the requirements will be install automatically):
 ```
-pip install -r reqs.txt
+docker-compose up
 ```
 3. Make migrations:
 ```
 python manage.py makemigrations и $ python manage.py migrate
-```
-4. Finally run local server:
-```
-python manage.py runserver
 ```
