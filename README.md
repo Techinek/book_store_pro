@@ -9,7 +9,7 @@ Bookstore project relied on docker with authorization and authentication system 
 ## Installation:
 1. Clone the repository:
 ```
-https://github.com/Techinek/rango.git
+https://github.com/Techinek/book_store_pro.git
 ```
 2. Install all the needed packages:
 ```
