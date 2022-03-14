@@ -6,7 +6,6 @@ Bookstore project relied on docker with authorization and authentication system 
 ```
 https://github.com/Techinek/rango.git
 ```
-
 2. Install all the needed packages:
 ```
 pip install -r reqs.txt
@@ -15,12 +14,7 @@ pip install -r reqs.txt
 ```
 python manage.py makemigrations и $ python manage.py migrate
 ```
-4. After making migrations run the following script to generate
-categories and pages:
-```
-python populate_rango.py
-```
-5. Finally run local server:
+4. Finally run local server:
 ```
 python manage.py runserver
 ```
