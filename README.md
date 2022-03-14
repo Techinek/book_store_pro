@@ -1,2 +1,2 @@
 # Bookstore
-Bookstore project relied on docker with authorization and authentication system that helps to restrict access for book contents.
+Bookstore project relied on docker with authorization and authentication system for restricting access to book contents.
